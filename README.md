@@ -2,9 +2,9 @@
 <h1 align="center">Hey 👋, I'm Ahmad Hassoun</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 👨‍💻 All of my projects are available at [abdulbari.vercel.app/](https://abdulbari.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://ahmadhss-portfolio.netlify.app/)
 
-- 📫 How to reach me **abdulbari.112917@gmail.com**
+- 📫 How to reach me **ahmadhss366@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

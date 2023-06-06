@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey 👋, I'm Ahmad Hassoun</h1>
-<h3 align="center">Frontend developer</h3>
+<h3 align="center">Full Stack developer</h3>
 
 - 👨‍💻 All of my projects are available at [My Website](https://ahmadhss-portfolio.netlify.app/)
 

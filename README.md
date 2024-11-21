@@ -5,7 +5,8 @@
 I'm a Full Stack Developer with over 3 years of experience in crafting scalable and high-performance web applications. Currently working as a Lead Web Developer at PWR Labs, specializing in blockchain technologies and Web3 development. I'm passionate about delivering exceptional user experiences and building innovative solutions.
 
 - 🔭 Currently leading frontend development at **PWR Labs**
-- 🌱 Specializing in **Web3, Blockchain, and Full Stack Development**
+- 🌱 Specializing in **Software Engineer**
+- 💼 Based in **Malmo, Sweden**
 - 📫 Reach me at **ahmadhss366@gmail.com**
 
 ## 💻 Tech Stack
@@ -33,10 +34,11 @@ I'm a Full Stack Developer with over 3 years of experience in crafting scalable 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ahmadhss366&show_icons=true&theme=dark" alt="GitHub Stats" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadhss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadhss&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 ## 🤝 Connect with Me

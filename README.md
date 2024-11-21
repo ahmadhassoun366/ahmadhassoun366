@@ -34,13 +34,6 @@ I'm a Full Stack Developer with over 3 years of experience in crafting scalable 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadhss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadhss&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-
 ## 🤝 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/ahmadhss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-hassoun" height="30" width="40" /></a>

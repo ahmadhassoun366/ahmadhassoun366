@@ -6,7 +6,6 @@ I'm a Full Stack Developer with over 3 years of experience in crafting scalable 
 
 - 🔭 Currently leading frontend development at **PWR Labs**
 - 🌱 Specializing in **Software Engineer**
-- 💼 Based in **Malmo, Sweden**
 - 📫 Reach me at **ahmadhss366@gmail.com**
 
 ## 💻 Tech Stack
